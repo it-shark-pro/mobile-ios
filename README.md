@@ -8,7 +8,7 @@
 
 ## Содержание
 
-- [Лекции / Курсы](#Лекции / Курсы)
+- [Лекции / Курсы](#Лекции-/-Курсы)
 - [Книги](#Книги)
 - [Документация](#Документация)
 - [Конференции](#Конференции)
@@ -17,18 +17,18 @@
 - [Скринкасты](#Скринкасты)
 - [Дайджесты и рассылки](#Дайджесты-и-рассылки)
 - [Сообщество и помощь](#Сообщество-и-помощь)
-- [Другие списки / ссылки](#Другие списки / ссылки)
+- [Другие списки / ссылки](#Другие-списки-/-ссылки)
 - [Наши материалы](#Наши-материалы)
 
 ## Лекции / Курсы
 
-- [Intro to App Development with Swift](https://itunes.apple.com/us/book/intro-to-app-development-with-swift/id1118575552?mt=11)
 - [Разработка iOS-приложений на языке Swift](https://itunes.apple.com/ru/course/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-ios-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-%D0%BD%D0%B0-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5-swift/id941293188)
 - [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316) :uk:
 - [SwiftBook - Courses](http://swiftbook.ru/paid-content) :moneybag:
 - [Raywenderlich - Courses](https://videos.raywenderlich.com/courses) :uk: :moneybag:
 
 ## Книги
+- [Intro to App Development with Swift](https://itunes.apple.com/us/book/intro-to-app-development-with-swift/id1118575552?mt=11) :uk:
 ### Swift
 - [The Swift Programming Language - iBook](https://itunes.apple.com/us/book/the-swift-programming-language/id1002622538?mt=11) :uk:
 - [Objc.io](https://www.objc.io/books/) :uk: :moneybag:
@@ -44,8 +44,8 @@
 - [Apple Human Interface Guidelines - iOS](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/) :uk:
 - [Apple Developer Library](https://developer.apple.com/library/content/navigation/) :uk:
 
-# Конференции
-[Apple WWDC](https://developer.apple.com/videos/)
+## Конференции
+- [Apple WWDC](https://developer.apple.com/videos/) :uk:
 
 ## Ссылки
 ### Статьи
@@ -63,7 +63,7 @@
 
 ## Подкасты
 <details><summary>Podlodka Podcast - https://soundcloud.com/podlodka</summary>
-<blockquote>Podlodka - это еженедельное аудио-шоу про мобильную разработку и всем, что с ней связано. Формат наших выпусков - это полное погружение в тему вместе с приглашенным гостем. В каждый выпуск мы зовём интересных и именитых профессионалов в разных областях.</blockquote>
+<blockquote>Podlodka - это еженедельное аудио-шоу про мобильную разработку и всем, что с ней связано. Формат выпусков - это полное погружение в тему вместе с приглашенным гостем. В каждый выпуск товарищи зовут интересных и именитых профессионалов в разных областях.</blockquote>
 </details>
 
 <details><summary>Swift By Sundell - https://www.swiftbysundell.com/podcast/ :uk:</summary>
@@ -84,12 +84,12 @@
 ## Другие списки / ссылки
 - [awesome-ios](https://github.com/vsouza/awesome-ios) :uk:
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift) :uk:
-- [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
-- [30 mini Swift Apps](https://github.com/soapyigu/Swift-30-Projects)
-- [Open Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
-- [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
-- [iOS Good Practices](https://github.com/futurice/ios-good-practices)
-- [Must-watch videos about Swift](https://github.com/nemanjavlahovic/swift-must-watch)
+- [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) :uk:
+- [30 mini Swift Apps](https://github.com/soapyigu/Swift-30-Projects) :uk:
+- [Open Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) :uk:
+- [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) :uk:
+- [iOS Good Practices](https://github.com/futurice/ios-good-practices) :uk:
+- [Must-watch videos about Swift](https://github.com/nemanjavlahovic/swift-must-watch) :uk:
 
 ## Наши материалы
 - [Рекомендации по изучению iOS](/learning-path.md)
