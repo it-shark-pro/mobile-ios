@@ -8,16 +8,16 @@
 
 ## Содержание
 
-- [Лекции](#Лекции)
+- [Лекции / Курсы](#Лекции / Курсы)
 - [Книги](#Книги)
 - [Документация](#Документация)
-- [Статьи](#Статьи)
-- [Серии статей](#Серии-статей)
+- [Конференции](#Конференции)
+- [Ссылки](#Ссылки)
 - [Подкасты](#Подкасты)
 - [Скринкасты](#Скринкасты)
 - [Дайджесты и рассылки](#Дайджесты-и-рассылки)
 - [Сообщество и помощь](#Сообщество-и-помощь)
-- [Другие списки](#Другие-списки)
+- [Другие списки / ссылки](#Другие списки / ссылки)
 - [Наши материалы](#Наши-материалы)
 
 ## Лекции / Курсы
@@ -43,6 +43,9 @@
 - [Apple Developer Documentation](https://developer.apple.com/documentation/) :uk:
 - [Apple Human Interface Guidelines - iOS](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/) :uk:
 - [Apple Developer Library](https://developer.apple.com/library/content/navigation/) :uk:
+
+# Конференции
+[Apple WWDC](https://developer.apple.com/videos/)
 
 ## Ссылки
 ### Статьи
@@ -71,6 +74,7 @@
 - [Swift Talk](https://talk.objc.io/) :uk: :moneybag:
 
 ## Дайджесты и рассылки
+- [MBLTDev Digest](https://digest.mbltdev.ru/)
 - [AppCoda Weekly Digest](http://digest.appcoda.com/) :uk:
 - [Awesome iOS Newsletter](https://ios.libhunt.com/newsletter) :uk:
 
