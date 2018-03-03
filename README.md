@@ -39,8 +39,10 @@
 - [The Swift Programming Language](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html) :uk:
 - [SwiftBook (перевод The Swift Programming Language)](http://swiftbook.ru/doc)
 - [UIKit](https://developer.apple.com/documentation/uikit) :uk:
+- [Autolayout Guide](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/) :uk:
 - [Apple Developer Documentation](https://developer.apple.com/documentation/) :uk:
-- [more...](https://developer.apple.com/library/content/navigation/) :uk:
+- [Apple Human Interface Guidelines - iOS](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/) :uk:
+- [Apple Developer Library](https://developer.apple.com/library/content/navigation/) :uk:
 
 ## Ссылки
 ### Статьи
@@ -50,6 +52,7 @@
 - [Hacking With Swift](https://www.hackingwithswift.com/articles) :uk:
 - [Хабрахабр по тегу iOS](https://habrahabr.ru/search/?q=iOS)
 ### Туториалы
+- [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/) :uk:
 - [SwiftBook - Tutorials](http://swiftbook.ru/tutorials)
 - [Raywenderlich - Swift](https://www.raywenderlich.com/category/swift) :uk:
 - [Raywenderlich - iOS](https://www.raywenderlich.com/category/ios) :uk:
@@ -74,9 +77,15 @@
 ## Сообщество и помощь
 - [iOS Good Reads - Telegram](https://tlgrm.ru/channels/@iosgr)
 
-## Другие списки
+## Другие списки / ссылки
 - [awesome-ios](https://github.com/vsouza/awesome-ios) :uk:
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift) :uk:
+- [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
+- [30 mini Swift Apps](https://github.com/soapyigu/Swift-30-Projects)
+- [Open Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
+- [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
+- [iOS Good Practices](https://github.com/futurice/ios-good-practices)
+- [Must-watch videos about Swift](https://github.com/nemanjavlahovic/swift-must-watch)
 
 ## Наши материалы
 - [Рекомендации по изучению iOS](/learning-path.md)
