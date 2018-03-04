@@ -1,7 +1,113 @@
 # iOS Learning Path
-
+Здесь можно найти темы и материалы по разработке под платформу iOS, которые Вы можете начать изучать прямо сейчас. Все темы поделены на уровни, и материалы прикреплены к каждой теме.
 ## Novice
-
+- [ ] Languages
+     - [ ] Swift
+        - [ ] [Basics](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
+        - [ ] [Basic Operators](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
+        - [ ] [Strings and Characters](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/StringsAndCharacters.html#//apple_ref/doc/uid/TP40014097-CH7-ID285)
+        - [ ] [Collection Types](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/CollectionTypes.html#//apple_ref/doc/uid/TP40014097-CH8-ID105)
+        - [ ] [Control Flow](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ControlFlow.html#//apple_ref/doc/uid/TP40014097-CH9-ID120)
+        - [ ] [Functions](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Functions.html#//apple_ref/doc/uid/TP40014097-CH10-ID158)
+        - [ ] [Enumerations](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Enumerations.html#//apple_ref/doc/uid/TP40014097-CH12-ID145)
+        - [ ] [Classes and Structures](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html#//apple_ref/doc/uid/TP40014097-CH13-ID82)
+        - [ ] [Properties](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Properties.html#//apple_ref/doc/uid/TP40014097-CH14-ID254)
+        - [ ] [Methods](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Methods.html#//apple_ref/doc/uid/TP40014097-CH15-ID234)
+        - [ ] [Access Control](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/AccessControl.html#//apple_ref/doc/uid/TP40014097-CH41-ID3)
+- [ ] Memory management
+    - [ ] [Value vs Reference type](https://developer.apple.com/swift/blog/?id=10)
+- [ ] Cocoa Touch
+    - [ ] [UIKit]
+        - [ ] [Application Lifecycle](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/TheAppLifeCycle/TheAppLifeCycle.html)
+        - [ ] [Views](https://developer.apple.com/library/content/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/CreatingViews/CreatingViews.html#//apple_ref/doc/uid/TP40009503-CH5-SW1)
+        - [ ] Layout
+            - [ ] [Nib](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/NibFile.html#//apple_ref/doc/uid/TP40008195-CH34-SW1)
+            - [ ] [Storyboard Basics](https://www.raywenderlich.com/160521/storyboards-tutorial-ios-11-part-1)
+            - [ ] [Autolayout Basics](https://digitalleaves.com/ultimate-guide-autolayout/) 
 ## Intermediate
-
+- [ ] Languages
+     - [ ] Swift
+        - [ ] [Subscripts](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Subscripts.html#//apple_ref/doc/uid/TP40014097-CH16-ID305)
+        - [ ] [Closures](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Closures.html#//apple_ref/doc/uid/TP40014097-CH11-ID94)
+        - [ ] [Inheritance](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Inheritance.html#//apple_ref/doc/uid/TP40014097-CH17-ID193)
+        - [ ] [Initialization](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Initialization.html#//apple_ref/doc/uid/TP40014097-CH18-ID203)
+        - [ ] [Deinitialization](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Deinitialization.html#//apple_ref/doc/uid/TP40014097-CH19-ID142)
+        - [ ] [Optional Chaining](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/OptionalChaining.html#//apple_ref/doc/uid/TP40014097-CH21-ID245)
+        - [ ] [Error Handling](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ErrorHandling.html#//apple_ref/doc/uid/TP40014097-CH42-ID508)
+        - [ ] [Type Casting](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TypeCasting.html#//apple_ref/doc/uid/TP40014097-CH22-ID338)
+        - [ ] [Nested Types](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/NestedTypes.html#//apple_ref/doc/uid/TP40014097-CH23-ID242)
+        - [ ] [Extensions](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Extensions.html#//apple_ref/doc/uid/TP40014097-CH24-ID151)
+        - [ ] [Protocols](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Protocols.html#//apple_ref/doc/uid/TP40014097-CH25-ID267)
+    - [ ] Objective-C
+        - [ ] [Basics](https://en.wikibooks.org/wiki/Objective-C_Programming/concepts)
+        - [ ] [Syntax](https://en.wikibooks.org/wiki/Objective-C_Programming/syntax)
+        - [ ] [Message](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/Message.html#//apple_ref/doc/uid/TP40008195-CH59-SW1)
+        - [ ] [Selector](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/Selector.html#//apple_ref/doc/uid/TP40008195-CH48-SW1)
+        - [ ] [Object Creation](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/ObjectCreation.html#//apple_ref/doc/uid/TP40008195-CH39-SW1)
+        - [ ] [Object Ownership](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/ObjectOwnership.html#//apple_ref/doc/uid/TP40008195-CH67-SW1)
+        - [ ] [Block object](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/Block.html#//apple_ref/doc/uid/TP40008195-CH3-SW1)
+- [ ] Memory management
+    - [ ] [ARC](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/AutomaticReferenceCounting.html)
+- [ ] Multithreading and concurency
+    - [ ] [GCD](https://habrahabr.ru/post/320152/)
+    - [ ] [NSOperation(Queue)](https://habrahabr.ru/post/335756/)
+- [ ] Cocoa Touch
+    - [ ] Foundation
+        - [ ] [Notification Patters](https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ROADMAP.md)
+        - [ ] [Networking](https://www.sitepoint.com/a-crash-course-on-networking-in-ios/)
+        - [ ] Serialization
+            - [ ] [Codable](https://medium.com/@ravi.aggarwal61/swift-codability-d0d232065cad)
+    - [ ] [UIKit]
+        - [ ] UIView
+            - [ ] [Text Views](https://developer.apple.com/library/content/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/ManageTextFieldTextViews/ManageTextFieldTextViews.html#//apple_ref/doc/uid/TP40009542-CH10-SW1)
+            - [ ] [ScrollView](https://www.raywenderlich.com/159481/uiscrollview-tutorial-getting-started)
+            - [ ] [TableView](https://www.objc.io/issues/1-view-controllers/table-views/)
+            - [ ] [CollectionView](https://www.raywenderlich.com/136159/uicollectionview-tutorial-getting-started)
+        - [ ] View Controllers
+            - [ ] [View Controllers Basics](https://developer.apple.com/library/content/featuredarticles/ViewControllerPGforiPhoneOS/index.html)
+            - [ ] [Lifecycle](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/WorkWithViewControllers.html#//apple_ref/doc/uid/TP40015214-CH6-SW3)
+        - [ ] Layout
+            - [ ] [Storyboard Advanced](https://www.raywenderlich.com/160519/storyboards-tutorial-ios-10-getting-started-part-2)
+            - [ ] [Autoresizing Masks](http://www.thomashanning.com/xcode-8-mixing-auto-autoresizing-masks/)
+            - [ ] [Autolayout Advanced](https://medium.com/@ravi.aggarwal61/understanding-auto-layout-constraints-part-1-844474e81d1e) 
+        - [ ] [Layers](https://www.raywenderlich.com/169004/calayer-tutorial-ios-getting-started)
+        - [ ] [Basic Animations](https://www.raywenderlich.com/173544/ios-animation-tutorial-getting-started-3)
+        - [ ] [Navigation](https://badootech.badoo.com/screen-navigation-in-ios-dd99b09228b2)
+- [ ] Caching and Persistancy
+    - [ ] [User Defaults](https://www.hackingwithswift.com/example-code/system/how-to-save-user-settings-using-userdefaults)
+    - [ ] [CoreData Basics](https://www.raywenderlich.com/173972/getting-started-with-core-data-tutorial-2)
+- [ ] Dependencies management
+    - [ ] [Cocoapods](https://www.raywenderlich.com/156971/cocoapods-tutorial-swift-getting-started)
+- [ ] [Unit Testing](https://www.raywenderlich.com/150073/ios-unit-testing-and-ui-testing-tutorial)
 ## Advanced
+- [ ] Languages
+    - [ ] Objective-C
+        - [ ] [Object Mutability](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/ObjectMutability.html#//apple_ref/doc/uid/TP40008195-CH42-SW1)
+        - [ ] [KVC](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/KeyValueCoding.html)
+        - [ ] [KVO](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/KVO.html#//apple_ref/doc/uid/TP40008195-CH16-SW1)
+        - [ ] [Advance concepts](https://en.wikibooks.org/wiki/Objective-C_Programming/in_depth)
+     - [ ] Swift
+        - [ ] [Generics](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Generics.html#//apple_ref/doc/uid/TP40014097-CH26-ID179)
+        - [ ] [Memory Safety](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/MemorySafety.html#//apple_ref/doc/uid/TP40014097-CH46-ID567)
+        - [ ] [Advanced Operators](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/AdvancedOperators.html#//apple_ref/doc/uid/TP40014097-CH27-ID28)
+- [ ] Memory management
+    - [ ] [Stack and Heap](https://www.mikeash.com/pyblog/friday-qa-2010-01-15-stack-and-heap-objects-in-objective-c.html)
+    - [ ] [Advanced Memory Management](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html)
+        - [ ] [Autorelease pool](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/MemoryMgmt/Articles/mmAutoreleasePools.html#//apple_ref/doc/uid/20000047-CJBFBEDI)
+ - [ ] Multithreading and concurency
+    - [ ] [Thread Management](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/Multithreading/CreatingThreads/CreatingThreads.html#//apple_ref/doc/uid/10000057i-CH15-SW2)
+    - [ ] [Runloop](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html#//apple_ref/doc/uid/10000057i-CH16-SW1)
+    - [ ] [Synchronization](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/Multithreading/ThreadSafety/ThreadSafety.html#//apple_ref/doc/uid/10000057i-CH8-SW1)
+- [ ] Cocoa Touch
+    - [ ] UIView
+        - [ ] [StackView](https://www.raywenderlich.com/160646/uistackview-tutorial-introducing-stack-views-2)
+    - [ ] View Controllers
+        - [ ] [Custom Transitions](https://www.raywenderlich.com/170144/custom-uiviewcontroller-transitions-getting-started)
+    - [ ] [User Notifications](https://www.raywenderlich.com/156966/push-notifications-tutorial-getting-started)
+    - [ ] [Core Location](https://www.raywenderlich.com/136165/core-location-geofencing-tutorial)
+    - [ ] [Core Motion](https://forestgiant.com/articles/ios-core-motion/)
+    - [ ] [Work in background mode](https://www.raywenderlich.com/143128/background-modes-tutorial-getting-started)
+- [ ] Caching and Persistancy
+    - [ ] [File Manager](https://www.hackingwithswift.com/example-code/system/how-to-read-the-contents-of-a-directory-using-filemanager)
+    - [ ] [CoreData Advanced](https://www.raywenderlich.com/174082/multiple-managed-object-contexts-with-core-data-tutorial)
+- [ ] [Unit Testing Advanced](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html)

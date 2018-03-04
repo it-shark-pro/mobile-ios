@@ -26,6 +26,7 @@
 - [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316) :uk:
 - [SwiftBook - Courses](http://swiftbook.ru/paid-content) :moneybag:
 - [Raywenderlich - Courses](https://videos.raywenderlich.com/courses) :uk: :moneybag:
+- [UIKit Fundamentals](https://eg.udacity.com/course/uikit-fundamentals--ud788) :uk:
 
 ## Книги
 - [Intro to App Development with Swift](https://itunes.apple.com/us/book/intro-to-app-development-with-swift/id1118575552?mt=11) :uk:
@@ -33,6 +34,7 @@
 - [The Swift Programming Language - iBook](https://itunes.apple.com/us/book/the-swift-programming-language/id1002622538?mt=11) :uk:
 - [Objc.io](https://www.objc.io/books/) :uk: :moneybag:
 ### Objective C
+- [Objective-C Programming](https://en.wikibooks.org/wiki/Objective-C_Programming)
 - [Using Swift with Cocoa and Objective-C - iBook](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id1002624212?mt=11) :uk:
 
 ## Документация
@@ -42,17 +44,21 @@
 - [Autolayout Guide](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/) :uk:
 - [Apple Developer Documentation](https://developer.apple.com/documentation/) :uk:
 - [Apple Human Interface Guidelines - iOS](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/) :uk:
+- [Cocoa Core Competencies](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/Accessibility.html#//apple_ref/doc/uid/TP40008195-CH66-SW1)
 - [Apple Developer Library](https://developer.apple.com/library/content/navigation/) :uk:
 
 ## Конференции
 - [Apple WWDC](https://developer.apple.com/videos/) :uk:
 
 ## Ссылки
-### Статьи
+### Блоги
+- [Apple Blog](https://developer.apple.com/swift/blog/)
 - [SwiftBook](http://swiftbook.ru/)
 - [Objc.io](https://www.objc.io/issues/) :uk:
 - [Swift By Sundell](https://www.swiftbysundell.com/) :uk:
 - [Hacking With Swift](https://www.hackingwithswift.com/articles) :uk:
+- [NSBlog](https://www.mikeash.com/pyblog/) :uk:
+### Статьи
 - [Хабрахабр по тегу iOS](https://habrahabr.ru/search/?q=iOS)
 ### Туториалы
 - [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/) :uk:
@@ -68,6 +74,10 @@
 
 <details><summary>Swift By Sundell - https://www.swiftbysundell.com/podcast/ :uk:</summary>
 <blockquote>The Swift by Sundell Podcast is a show on which John & special guests from the community answer your questions about Swift development.</blockquote>
+</details>
+
+<details><summary>The Raywenderlich.com Podcast - https://www.raywenderlich.com/rwpodcast :uk:</summary>
+<blockquote>Join Dru and Janie as they discuss every aspect of app development with well-known characters from the developer community. Primarily focusing on Apple technology, but with the occasional dip into other platforms.</blockquote>
 </details>
 
 ## Скринкасты
@@ -90,6 +100,7 @@
 - [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) :uk:
 - [iOS Good Practices](https://github.com/futurice/ios-good-practices) :uk:
 - [Must-watch videos about Swift](https://github.com/nemanjavlahovic/swift-must-watch) :uk:
+- [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) :uk:
 
 ## Наши материалы
 - [Рекомендации по изучению iOS](/learning-path.md)
