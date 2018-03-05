@@ -1,5 +1,5 @@
 # iOS Learning Path
-Здесь можно найти темы и материалы по разработке под платформу iOS, которые Вы можете начать изучать прямо сейчас. Все темы поделены на уровни, и материалы прикреплены к каждой теме.
+Здесь можно найти темы по разработке на платформе iOS. Все темы поделены на 3 уровня (Novice, Intermediate, Advanced). К каждой теме дополнительно есть ссылка, перейдя по которой Вы можете найти полезную информацию по выбранной теме. Так же к темам будут закреплены дополнительные материалы (проекты, ассайменты и т.д.), которые Вы так же можете использовать для своего обучения.
 ## Novice
 - [ ] Languages
      - [ ] Swift
@@ -17,13 +17,19 @@
 - [ ] Memory management
     - [ ] [Value vs Reference type](https://developer.apple.com/swift/blog/?id=10)
 - [ ] Cocoa Touch
-    - [ ] [UIKit]
-        - [ ] [Application Lifecycle](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/TheAppLifeCycle/TheAppLifeCycle.html)
-        - [ ] [Views](https://developer.apple.com/library/content/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/CreatingViews/CreatingViews.html#//apple_ref/doc/uid/TP40009503-CH5-SW1)
+    - [ ] UIKit
+        - [ ] [Application Lifecycle](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/TheAppLifeCycle/TheAppLifeCycle.html#//apple_ref/doc/uid/TP40007072-CH2-SW3)
         - [ ] Layout
             - [ ] [Nib](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/NibFile.html#//apple_ref/doc/uid/TP40008195-CH34-SW1)
             - [ ] [Storyboard Basics](https://www.raywenderlich.com/160521/storyboards-tutorial-ios-11-part-1)
-            - [ ] [Autolayout Basics](https://digitalleaves.com/ultimate-guide-autolayout/) 
+            - [ ] [Autolayout Basics](https://digitalleaves.com/ultimate-guide-autolayout/) - [`IT-Shark City Map Example project - Part0`](https://github.com/it-shark-pro/mobile-citymap-ios)
+        - [ ] [Views](https://developer.apple.com/library/content/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/CreatingViews/CreatingViews.html#//apple_ref/doc/uid/TP40009503-CH5-SW1)
+            - [ ] [Frame/Bounds/Center](https://medium.com/@GanChau/uiview-frame-vs-bounds-195b9688bde3)
+            - [ ] [Transform](https://developer.apple.com/documentation/uikit/uiview/1622459-transform)
+            - [ ] [TableView Basics](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/CreateATableView.html)
+        - [ ] View Controllers
+            - [ ] [Navigation Controller](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/ImplementNavigation.html) - [`IT-Shark City Map Example project - Part1`](https://github.com/it-shark-pro/mobile-citymap-ios)
+            - [ ] [TabBar Controller](https://makeapppie.com/2016/07/06/tab-bar-controllers-in-xcode-8-storyboards/)
 ## Intermediate
 - [ ] Languages
      - [ ] Swift
@@ -53,16 +59,16 @@
     - [ ] [NSOperation(Queue)](https://habrahabr.ru/post/335756/)
 - [ ] Cocoa Touch
     - [ ] Foundation
-        - [ ] [Notification Patters](https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ROADMAP.md)
+        - [ ] [Notification Patters](https://shinesolutions.com/2011/06/14/delegation-notification-and-observation/)
         - [ ] [Networking](https://www.sitepoint.com/a-crash-course-on-networking-in-ios/)
         - [ ] Serialization
             - [ ] [Codable](https://medium.com/@ravi.aggarwal61/swift-codability-d0d232065cad)
-    - [ ] [UIKit]
+    - [ ] UIKit
         - [ ] UIView
             - [ ] [Text Views](https://developer.apple.com/library/content/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/ManageTextFieldTextViews/ManageTextFieldTextViews.html#//apple_ref/doc/uid/TP40009542-CH10-SW1)
             - [ ] [ScrollView](https://www.raywenderlich.com/159481/uiscrollview-tutorial-getting-started)
-            - [ ] [TableView](https://www.objc.io/issues/1-view-controllers/table-views/)
-            - [ ] [CollectionView](https://www.raywenderlich.com/136159/uicollectionview-tutorial-getting-started)
+            - [ ] [CollectionView](https://www.raywenderlich.com/136159/uicollectionview-tutorial-getting-started) - [`IT-Shark City Map Example project - Part2`](https://github.com/it-shark-pro/mobile-citymap-ios)
+            - [ ] [TableView Advanced](https://www.objc.io/issues/1-view-controllers/table-views/)
         - [ ] View Controllers
             - [ ] [View Controllers Basics](https://developer.apple.com/library/content/featuredarticles/ViewControllerPGforiPhoneOS/index.html)
             - [ ] [Lifecycle](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/WorkWithViewControllers.html#//apple_ref/doc/uid/TP40015214-CH6-SW3)
@@ -72,10 +78,11 @@
             - [ ] [Autolayout Advanced](https://medium.com/@ravi.aggarwal61/understanding-auto-layout-constraints-part-1-844474e81d1e) 
         - [ ] [Layers](https://www.raywenderlich.com/169004/calayer-tutorial-ios-getting-started)
         - [ ] [Basic Animations](https://www.raywenderlich.com/173544/ios-animation-tutorial-getting-started-3)
+        - [ ] [Responder Object](https://developer.apple.com/library/content/documentation/General/Conceptual/Devpedia-CocoaApp/Responder.html#//apple_ref/doc/uid/TP40009071-CH1-SW1)
         - [ ] [Navigation](https://badootech.badoo.com/screen-navigation-in-ios-dd99b09228b2)
 - [ ] Caching and Persistancy
     - [ ] [User Defaults](https://www.hackingwithswift.com/example-code/system/how-to-save-user-settings-using-userdefaults)
-    - [ ] [CoreData Basics](https://www.raywenderlich.com/173972/getting-started-with-core-data-tutorial-2)
+    - [ ] [CoreData Basics](https://www.raywenderlich.com/173972/getting-started-with-core-data-tutorial-2) - [`IT-Shark City Map Example project - Part3`](https://github.com/it-shark-pro/mobile-citymap-ios)
 - [ ] Dependencies management
     - [ ] [Cocoapods](https://www.raywenderlich.com/156971/cocoapods-tutorial-swift-getting-started)
 - [ ] [Unit Testing](https://www.raywenderlich.com/150073/ios-unit-testing-and-ui-testing-tutorial)
@@ -99,15 +106,23 @@
     - [ ] [Runloop](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html#//apple_ref/doc/uid/10000057i-CH16-SW1)
     - [ ] [Synchronization](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/Multithreading/ThreadSafety/ThreadSafety.html#//apple_ref/doc/uid/10000057i-CH8-SW1)
 - [ ] Cocoa Touch
-    - [ ] UIView
-        - [ ] [StackView](https://www.raywenderlich.com/160646/uistackview-tutorial-introducing-stack-views-2)
-    - [ ] View Controllers
-        - [ ] [Custom Transitions](https://www.raywenderlich.com/170144/custom-uiviewcontroller-transitions-getting-started)
+    - [ ] UIKit
+        - [ ] UIView
+            - [ ] [StackView](https://www.raywenderlich.com/160646/uistackview-tutorial-introducing-stack-views-2)
+        - [ ] View Controllers
+            - [ ] [Split View Controller](https://www.raywenderlich.com/173753/uisplitviewcontroller-tutorial-getting-started-2)
+            - [ ] [Presentation Controller](https://www.raywenderlich.com/139277/uipresentationcontroller-tutorial-getting-started)
+            - [ ] [Custom Transitions](https://www.raywenderlich.com/170144/custom-uiviewcontroller-transitions-getting-started)
     - [ ] [User Notifications](https://www.raywenderlich.com/156966/push-notifications-tutorial-getting-started)
-    - [ ] [Core Location](https://www.raywenderlich.com/136165/core-location-geofencing-tutorial)
+    - [ ] [Core Location](https://www.raywenderlich.com/136165/core-location-geofencing-tutorial) - [`IT-Shark City Map Example project - Part4`](https://github.com/it-shark-pro/mobile-citymap-ios)
     - [ ] [Core Motion](https://forestgiant.com/articles/ios-core-motion/)
     - [ ] [Work in background mode](https://www.raywenderlich.com/143128/background-modes-tutorial-getting-started)
 - [ ] Caching and Persistancy
     - [ ] [File Manager](https://www.hackingwithswift.com/example-code/system/how-to-read-the-contents-of-a-directory-using-filemanager)
     - [ ] [CoreData Advanced](https://www.raywenderlich.com/174082/multiple-managed-object-contexts-with-core-data-tutorial)
 - [ ] [Unit Testing Advanced](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html)
+
+Есть идеи по развитию или просто хотите исправить ошибку? Вы можете [написать нам](https://github.com/it-shark-pro/mobile-ios/issues/new)!
+
+---
+[![Лицензия Creative Commons](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) IT Shark Community

@@ -44,7 +44,8 @@
 - [Autolayout Guide](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/) :uk:
 - [Apple Developer Documentation](https://developer.apple.com/documentation/) :uk:
 - [Apple Human Interface Guidelines - iOS](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/) :uk:
-- [Cocoa Core Competencies](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/Accessibility.html#//apple_ref/doc/uid/TP40008195-CH66-SW1)
+- [Cocoa Core Competencies](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/Accessibility.html#//apple_ref/doc/uid/TP40008195-CH66-SW1) :uk:
+- [Cocoa Application Competencies](https://developer.apple.com/library/content/documentation/General/Conceptual/Devpedia-CocoaApp/Animation.html#//apple_ref/doc/uid/TP40009071-CH11-SW1) :uk:
 - [Apple Developer Library](https://developer.apple.com/library/content/navigation/) :uk:
 
 ## Конференции
@@ -52,7 +53,8 @@
 
 ## Ссылки
 ### Блоги
-- [Apple Blog](https://developer.apple.com/swift/blog/)
+- [Блог Everydaytools на Хабрахабре](https://habrahabr.ru/company/everydaytools/)
+- [Apple Blog](https://developer.apple.com/swift/blog/) :uk:
 - [SwiftBook](http://swiftbook.ru/)
 - [Objc.io](https://www.objc.io/issues/) :uk:
 - [Swift By Sundell](https://www.swiftbysundell.com/) :uk:
