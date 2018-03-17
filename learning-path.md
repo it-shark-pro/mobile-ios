@@ -79,7 +79,8 @@
         - [ ] [Layers](https://www.raywenderlich.com/169004/calayer-tutorial-ios-getting-started)
         - [ ] [Basic Animations](https://www.raywenderlich.com/173544/ios-animation-tutorial-getting-started-3)
         - [ ] [Responder Object](https://developer.apple.com/library/content/documentation/General/Conceptual/Devpedia-CocoaApp/Responder.html#//apple_ref/doc/uid/TP40009071-CH1-SW1)
-        - [ ] [Navigation](https://badootech.badoo.com/screen-navigation-in-ios-dd99b09228b2)
+        - [ ] [Gesture recognizers](https://www.raywenderlich.com/162745/uigesturerecognizer-tutorial-getting-started)
+        - [ ] [Navigation Practices](https://badootech.badoo.com/screen-navigation-in-ios-dd99b09228b2)
 - [ ] Caching and Persistancy
     - [ ] [User Defaults](https://www.hackingwithswift.com/example-code/system/how-to-save-user-settings-using-userdefaults)
     - [ ] [CoreData Basics](https://www.raywenderlich.com/173972/getting-started-with-core-data-tutorial-2) - [`IT-Shark City Map Example project - Part3`](https://github.com/it-shark-pro/mobile-citymap-ios)
@@ -113,6 +114,7 @@
             - [ ] [Split View Controller](https://www.raywenderlich.com/173753/uisplitviewcontroller-tutorial-getting-started-2)
             - [ ] [Presentation Controller](https://www.raywenderlich.com/139277/uipresentationcontroller-tutorial-getting-started)
             - [ ] [Custom Transitions](https://www.raywenderlich.com/170144/custom-uiviewcontroller-transitions-getting-started)
+        - [ ] [Adaptive Layout](https://www.raywenderlich.com/162311/adaptive-layout-tutorial-ios-11-getting-started)
     - [ ] [User Notifications](https://www.raywenderlich.com/156966/push-notifications-tutorial-getting-started)
     - [ ] [Core Location](https://www.raywenderlich.com/136165/core-location-geofencing-tutorial) - [`IT-Shark City Map Example project - Part4`](https://github.com/it-shark-pro/mobile-citymap-ios)
     - [ ] [Core Motion](https://forestgiant.com/articles/ios-core-motion/)

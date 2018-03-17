@@ -54,6 +54,7 @@
 ## Ссылки
 ### Блоги
 - [Блог Everydaytools на Хабрахабре](https://habrahabr.ru/company/everydaytools/)
+- [iOS Dev Directory](https://iosdevdirectory.com/)
 - [Apple Blog](https://developer.apple.com/swift/blog/) :uk:
 - [SwiftBook](http://swiftbook.ru/)
 - [Objc.io](https://www.objc.io/issues/) :uk:
