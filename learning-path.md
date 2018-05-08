@@ -113,7 +113,7 @@
         - [ ] View Controllers
             - [ ] [Split View Controller](https://www.raywenderlich.com/173753/uisplitviewcontroller-tutorial-getting-started-2)
             - [ ] [Presentation Controller](https://www.raywenderlich.com/139277/uipresentationcontroller-tutorial-getting-started)
-            - [ ] [Custom Transitions](https://www.raywenderlich.com/170144/custom-uiviewcontroller-transitions-getting-started)
+            - [ ] [Custom Transitions](https://www.raywenderlich.com/170144/custom-uiviewcontroller-transitions-getting-started) - [`IT-Shark City Map Example project - Custom Transitions`](https://github.com/it-shark-pro/mobile-citymap-ios/tree/part3-custom-transitions)
         - [ ] [Adaptive Layout](https://www.raywenderlich.com/162311/adaptive-layout-tutorial-ios-11-getting-started)
     - [ ] [User Notifications](https://www.raywenderlich.com/156966/push-notifications-tutorial-getting-started)
     - [ ] [Core Location](https://www.raywenderlich.com/136165/core-location-geofencing-tutorial) - [`IT-Shark City Map Example project - Part4`](https://github.com/it-shark-pro/mobile-citymap-ios)
