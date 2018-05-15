@@ -31,11 +31,11 @@
 ## Книги
 - [Intro to App Development with Swift](https://itunes.apple.com/us/book/intro-to-app-development-with-swift/id1118575552?mt=11) :uk:
 ### Swift
-- [The Swift Programming Language - iBook](https://itunes.apple.com/us/book/the-swift-programming-language/id1002622538?mt=11) :uk:
+- [The Swift Programming Language (Swift 4.1) - iBook](https://itunes.apple.com/us/book/the-swift-programming-language-swift-4-1/id881256329?mt=11) :uk:
 - [Objc.io](https://www.objc.io/books/) :uk: :moneybag:
 ### Objective C
 - [Objective-C Programming](https://en.wikibooks.org/wiki/Objective-C_Programming)
-- [Using Swift with Cocoa and Objective-C - iBook](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id1002624212?mt=11) :uk:
+- [Using Swift with Cocoa and Objective-C (4.1) - iBook](https://itunes.apple.com/us/book/using-swift-with-cocoa-and-objective-c-4-1/id888894773?mt=11) :uk:
 
 ## Документация
 - [The Swift Programming Language](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html) :uk:
@@ -44,8 +44,7 @@
 - [Autolayout Guide](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/) :uk:
 - [Apple Developer Documentation](https://developer.apple.com/documentation/) :uk:
 - [Apple Human Interface Guidelines - iOS](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/) :uk:
-- [Cocoa Core Competencies](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/Accessibility.html#//apple_ref/doc/uid/TP40008195-CH66-SW1) :uk:
-- [Cocoa Application Competencies](https://developer.apple.com/library/content/documentation/General/Conceptual/Devpedia-CocoaApp/Animation.html#//apple_ref/doc/uid/TP40009071-CH11-SW1) :uk:
+- [Cocoa Core Competencies](https://github.com/conqueror/CocoaCoreCompetencies) :uk:
 - [Apple Developer Library](https://developer.apple.com/library/content/navigation/) :uk:
 
 ## Конференции
