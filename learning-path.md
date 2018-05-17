@@ -3,14 +3,14 @@
 ## Novice
 - [ ] Languages
      - [ ] Swift
-        - [ ] [Basics](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
+        - [ ] [Basics](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309) - [`Swift Assignments - 02-Numbers`](https://github.com/it-shark-pro/mobile-swift-assignments)
         - [ ] [Basic Operators](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
-        - [ ] [Strings and Characters](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/StringsAndCharacters.html#//apple_ref/doc/uid/TP40014097-CH7-ID285)
-        - [ ] [Collection Types](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/CollectionTypes.html#//apple_ref/doc/uid/TP40014097-CH8-ID105)
-        - [ ] [Control Flow](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ControlFlow.html#//apple_ref/doc/uid/TP40014097-CH9-ID120)
-        - [ ] [Functions](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Functions.html#//apple_ref/doc/uid/TP40014097-CH10-ID158)
+        - [ ] [Strings and Characters](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/StringsAndCharacters.html#//apple_ref/doc/uid/TP40014097-CH7-ID285) - [`Swift Assignments - 01-Strings`](https://github.com/it-shark-pro/mobile-swift-assignments)
+        - [ ] [Collection Types](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/CollectionTypes.html#//apple_ref/doc/uid/TP40014097-CH8-ID105) - [`Swift Assignments - 04-Arrays`](https://github.com/it-shark-pro/mobile-swift-assignments)
+        - [ ] [Control Flow](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ControlFlow.html#//apple_ref/doc/uid/TP40014097-CH9-ID120) - [`Swift Assignments - 05-Conditions-N-Loops`](https://github.com/it-shark-pro/mobile-swift-assignments)
+        - [ ] [Functions](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Functions.html#//apple_ref/doc/uid/TP40014097-CH10-ID158) 
         - [ ] [Enumerations](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Enumerations.html#//apple_ref/doc/uid/TP40014097-CH12-ID145)
-        - [ ] [Classes and Structures](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html#//apple_ref/doc/uid/TP40014097-CH13-ID82)
+        - [ ] [Classes and Structures](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html#//apple_ref/doc/uid/TP40014097-CH13-ID82) - [`Swift Assignments - 06-Classes-and-Structures`](https://github.com/it-shark-pro/mobile-swift-assignments)
         - [ ] [Properties](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Properties.html#//apple_ref/doc/uid/TP40014097-CH14-ID254)
         - [ ] [Methods](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Methods.html#//apple_ref/doc/uid/TP40014097-CH15-ID234)
         - [ ] [Access Control](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/AccessControl.html#//apple_ref/doc/uid/TP40014097-CH41-ID3)
@@ -20,7 +20,7 @@
     - [ ] UIKit
         - [ ] [Application Lifecycle](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/TheAppLifeCycle/TheAppLifeCycle.html#//apple_ref/doc/uid/TP40007072-CH2-SW3)
         - [ ] Layout
-            - [ ] [Nib](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/NibFile.html#//apple_ref/doc/uid/TP40008195-CH34-SW1)
+            - [ ] [Nib](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/LoadingResources/CocoaNibs/CocoaNibs.html)
             - [ ] [Storyboard Basics](https://www.raywenderlich.com/160521/storyboards-tutorial-ios-11-part-1)
             - [ ] [Autolayout Basics](https://digitalleaves.com/ultimate-guide-autolayout/) - [`IT-Shark City Map Example project - Part0`](https://github.com/it-shark-pro/mobile-citymap-ios)
         - [ ] [Views](https://developer.apple.com/library/content/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/CreatingViews/CreatingViews.html#//apple_ref/doc/uid/TP40009503-CH5-SW1)
@@ -47,11 +47,9 @@
     - [ ] Objective-C
         - [ ] [Basics](https://en.wikibooks.org/wiki/Objective-C_Programming/concepts)
         - [ ] [Syntax](https://en.wikibooks.org/wiki/Objective-C_Programming/syntax)
-        - [ ] [Message](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/Message.html#//apple_ref/doc/uid/TP40008195-CH59-SW1)
-        - [ ] [Selector](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/Selector.html#//apple_ref/doc/uid/TP40008195-CH48-SW1)
-        - [ ] [Object Creation](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/ObjectCreation.html#//apple_ref/doc/uid/TP40008195-CH39-SW1)
-        - [ ] [Object Ownership](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/ObjectOwnership.html#//apple_ref/doc/uid/TP40008195-CH67-SW1)
-        - [ ] [Block object](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/Block.html#//apple_ref/doc/uid/TP40008195-CH3-SW1)
+        - [ ] [Working with Objects](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithObjects/WorkingwithObjects.html)
+        - [ ] [Working with Blocks](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithBlocks/WorkingwithBlocks.html#//apple_ref/doc/uid/TP40011210-CH8-SW1)
+        - [ ] [Messaging](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Articles/ocrtHowMessagingWorks.html)
 - [ ] Memory management
     - [ ] [ARC](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/AutomaticReferenceCounting.html)
 - [ ] Multithreading and concurency
@@ -78,7 +76,7 @@
             - [ ] [Autolayout Advanced](https://medium.com/@ravi.aggarwal61/understanding-auto-layout-constraints-part-1-844474e81d1e) 
         - [ ] [Layers](https://www.raywenderlich.com/169004/calayer-tutorial-ios-getting-started)
         - [ ] [Basic Animations](https://www.raywenderlich.com/173544/ios-animation-tutorial-getting-started-3)
-        - [ ] [Responder Object](https://developer.apple.com/library/content/documentation/General/Conceptual/Devpedia-CocoaApp/Responder.html#//apple_ref/doc/uid/TP40009071-CH1-SW1)
+        - [ ] [Event Handling, Responders and the Responder Chain](https://developer.apple.com/documentation/uikit/touches_presses_and_gestures/understanding_event_handling_responders_and_the_responder_chain?language=objc)
         - [ ] [Gesture recognizers](https://www.raywenderlich.com/162745/uigesturerecognizer-tutorial-getting-started)
         - [ ] [Navigation Practices](https://badootech.badoo.com/screen-navigation-in-ios-dd99b09228b2)
 - [ ] Caching and Persistancy
@@ -90,9 +88,9 @@
 ## Advanced
 - [ ] Languages
     - [ ] Objective-C
-        - [ ] [Object Mutability](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/ObjectMutability.html#//apple_ref/doc/uid/TP40008195-CH42-SW1)
-        - [ ] [KVC](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/KeyValueCoding.html)
-        - [ ] [KVO](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/KVO.html#//apple_ref/doc/uid/TP40008195-CH16-SW1)
+        - [ ] [Object Mutability](https://developer.apple.com/library/content/documentation/General/Conceptual/CocoaEncyclopedia/ObjectMutability/ObjectMutability.html)
+        - [ ] [KVC](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueCoding/index.html#//apple_ref/doc/uid/10000107-SW1)
+        - [ ] [KVO](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html#//apple_ref/doc/uid/10000177-BCICJDHA)
         - [ ] [Advance concepts](https://en.wikibooks.org/wiki/Objective-C_Programming/in_depth)
      - [ ] Swift
         - [ ] [Generics](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Generics.html#//apple_ref/doc/uid/TP40014097-CH26-ID179)
